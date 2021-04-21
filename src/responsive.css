@@ -1,0 +1,370 @@
+/* Normal desktop :1200px. */
+@media (min-width: 1200px) and (max-width: 1500px) {
+
+
+}
+
+
+/* Normal desktop :992px. */
+@media (min-width: 992px) and (max-width: 1200px) {
+.main-menu ul li a {
+    padding: 25px 0px;
+}
+.main-menu ul li {
+    margin-left: 29px;
+}
+.logo img{
+    margin-bottom: -87px;
+}
+.slider-height {
+    height: 750px;
+}
+.slider-text h1 {
+    font-size: 33px;
+    margin-top: -76px;
+}
+.slider-text h4 {
+    font-size: 18px;
+    margin-top: 43px;
+}
+.services-title h1 {
+    font-weight: 500;
+    font-size: 26px;
+}
+.services-title span {
+    font-weight: 500;
+    font-size: 34px;
+}
+.services-box h4 {
+    font-size: 19px;
+    font-weight: 700;
+}
+.right-skill h2 {
+    font-size: 30px;
+    margin-bottom: 40px;
+    padding-right: 36px;
+    line-height: 44px;
+    font-weight: 500;
+}
+.left-content h2 {
+    font-size: 33px;
+    font-weight: 500;
+    line-height: 40px;
+}
+.left-content strong {
+    margin-left: 0px;
+}
+.left-content h6 {
+   margin-left: 0px;
+}
+.status{
+    font-size: 18px;
+}
+.left-creative-img img{
+    max-width: 100%;
+}
+.right-creative-text h2 {
+    font-size: 35px;
+    margin-left: 24px;
+    font-weight: 700;
+}
+.right-creative-text p {
+    margin-bottom: 30px;
+}
+.price-box p {
+    font-size: 14px;
+}
+
+
+
+
+}
+
+ 
+/* Tablet desktop :768px. */
+@media (min-width: 768px) and (max-width: 991px) {
+.footer-top-content p {
+    margin-top: 31px;
+    width: 76%;
+    margin-left: 85px;
+}
+.logo img{
+    margin-bottom: -125px;
+}
+.header-social {
+    margin-top: -27px;
+}
+.slider-text h1 {
+    font-size: 50px;
+    margin-top: -143px;
+}
+.slider-text h4 {
+    font-size: 16px;
+    margin-top: 34px;
+    line-height: 28px;
+    margin-bottom: 39px;
+}
+.slider-height{
+    height: 685px;
+}
+.btn{
+    padding: 17px 31px;
+    font-size: 14px;
+}
+.services-title h1 {
+    font-size: 27px;
+}
+.services-title span {
+    font-size: 35px;
+}
+.services-box h4 {
+    font-size: 14px;
+    font-weight: 700;
+}
+.services-box p {
+    margin-bottom: 20px;
+    font-size: 11px;
+    line-height: 23px;
+}
+.left-content h2 {
+    font-size: 25px;
+    font-weight: 500;
+    margin-left: -100px;
+}
+.left-content p {
+    font-size: 15px;
+    margin-bottom: 37px;
+    margin-left: -100px;
+    margin-top: -14px;
+}
+.left-content strong{
+    margin-left: -101px;
+}
+.left-content h6{
+    margin-left: -101px;
+}
+.right-skill h2 {
+    font-size: 22px;
+    line-height: 32px;
+    font-weight: 500;
+}
+.status {
+    font-size: 14px;
+}
+.left-creative-img img {
+    max-width: 100%;
+    margin-top: 260px;
+    margin-left: 77px;
+}
+.right-creative-text h2 {
+    font-size: 30px;
+    margin-bottom: 41px;
+    margin-top: 42px;
+    margin-left: 61px;
+    font-weight: 500;
+}
+.right-creative-text p {
+    font-size: 14px;
+    margin-left: 59px;
+    line-height: 26px;
+    margin-top: -21px;
+}
+.icon-check {
+    margin-right: 26px;
+    margin-left: 30px;
+}
+.team-highlight-title h2 {
+    font-size: 40px;
+    margin-top: 115px;
+    margin-bottom: -57px;
+}
+.team-highlight-title h6 {
+    font-size: 15px;
+    margin-top: 121px;
+    margin-bottom: -99px;
+}
+.event-text h2 {
+    font-size: 19px;
+    text-transform: capitalize;
+}
+.event-text span {
+    font-size: 10px;
+    text-transform: uppercase;
+}
+.event-text p {
+    font-size: 14px;
+    width: 175%;
+    margin-left: -36px;
+}
+.testimonial-item img {
+    height: 88px;
+    max-width: 15%;
+    margin-left: 292px;
+}
+.testimonial-item p {
+    padding-right: 71px;
+    margin-left: 118px;
+}
+}
+
+ 
+/* small mobile :320px. */
+@media (max-width: 767px) {
+.header-cta span {
+    display: none;
+}
+.logo {
+    margin-top: -32px;
+}
+.menu-social a {
+    display: none;
+}
+.slider-text h1 {
+    font-size: 31px;
+    margin-top: -218px;
+    margin-bottom: -30px;
+}
+.slider-text h4 {
+    font-size: 17px;
+    margin-top: 50px;
+    line-height: 28px;
+    margin-bottom: 32px;
+}
+.btn {
+    font-size: 14px;
+    padding: 15px 23px;
+}
+.slider-pic img {
+    margin-top: 38px;
+}
+.slider-height {
+    height: 829px;
+}
+.services-section{
+    height: 1168px;
+}
+.services-title h1 {
+    font-weight: 500;
+    margin-bottom: 29px;
+    font-size: 18px;
+}
+.skill-section {
+    height: 778px;
+}
+.left-content h2 {
+    font-size: 30px;
+    margin-bottom: 23px;
+}
+.left-content p {
+    margin-bottom: 35px;
+}
+.left-content strong {
+   margin-left: 0;
+}
+.left-content h6{
+    margin-left: 0;
+}
+.right-skill h2 {
+    font-size: 26px;
+    margin-bottom: 37px;
+    line-height: 32px;
+    margin-top: 38px;
+    font-weight: 500;
+}
+.counter-section {
+    height: 435px;
+}
+.status {
+    font-size: 17px;
+}
+.counter-text h1 {
+    font-size: 32px;
+}
+.counter {
+    font-size: 37px;
+}
+.counter-icon i {
+    font-size: 39px;
+    margin-top: 11px;
+}
+.counter-item {
+    margin-left: 93px;
+}
+.creative-solution {
+    height: 1061px;
+}
+.left-creative-img img {
+    max-width: 100%;
+}
+.right-creative-text h2 {
+    font-size: 30px;
+    margin-bottom: 18px;
+    margin-top: 29px;
+    font-weight: 500;
+    margin-left: 28px;
+}
+.right-creative-text p {
+    font-size: 16px;
+    line-height: 27px;
+}
+.creative-btn {
+    margin-left: 34px;
+}
+.team-highlight-title h2 {
+    font-size: 29px;
+    margin-bottom: -74px;
+}
+.pb-140 {
+    padding-bottom: 68px;
+}
+.pt-140 {
+    padding-top: 28px;
+}
+.event-text h2 {
+    font-size: 19px;
+}
+.event-text p {
+    font-size: 15px;
+    width: 208%;
+    margin-left: -49px;
+}
+.price-title h1 {
+    font-size: 35px;
+    margin-bottom: -62px;
+}
+.pt-100 {
+    padding-top: 0;
+}
+.pt-100 {
+    padding-top: 0;
+}
+.team-pic-item {
+    width: 100%;
+}
+.team-pic {
+    height: 1965px;
+    margin-bottom: -373px;
+}
+.testimonial-item{
+    display: none;
+}
+.footer-top img {
+    margin-top: -130px;
+}
+.footer-top-content p {
+    font-size: 17px;
+    margin-top: -14px;
+    width: 93%;
+    margin-left: 11px;
+}
+.footer-top-social ul li a {
+    margin-bottom: -30px;
+}
+ 
+}
+ 
+/* Large Mobile :480px. */
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+.container {width:450px}
+ 
+}
